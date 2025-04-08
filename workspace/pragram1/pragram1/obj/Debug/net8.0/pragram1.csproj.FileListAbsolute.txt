@@ -1,0 +1,14 @@
+C:\Users\dev\Documents\workspace\pragram1\pragram1\obj\Debug\net8.0\pragram1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\workspace\pragram1\pragram1\obj\Debug\net8.0\pragram1.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\workspace\pragram1\pragram1\obj\Debug\net8.0\pragram1.AssemblyInfo.cs
+C:\Users\dev\Documents\workspace\pragram1\pragram1\obj\Debug\net8.0\pragram1.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\workspace\pragram1\pragram1\bin\Debug\net8.0\pragram1.exe
+C:\Users\dev\Documents\workspace\pragram1\pragram1\bin\Debug\net8.0\pragram1.deps.json
+C:\Users\dev\Documents\workspace\pragram1\pragram1\bin\Debug\net8.0\pragram1.runtimeconfig.json
+C:\Users\dev\Documents\workspace\pragram1\pragram1\bin\Debug\net8.0\pragram1.dll
+C:\Users\dev\Documents\workspace\pragram1\pragram1\bin\Debug\net8.0\pragram1.pdb
+C:\Users\dev\Documents\workspace\pragram1\pragram1\obj\Debug\net8.0\pragram1.dll
+C:\Users\dev\Documents\workspace\pragram1\pragram1\obj\Debug\net8.0\refint\pragram1.dll
+C:\Users\dev\Documents\workspace\pragram1\pragram1\obj\Debug\net8.0\pragram1.pdb
+C:\Users\dev\Documents\workspace\pragram1\pragram1\obj\Debug\net8.0\pragram1.genruntimeconfig.cache
+C:\Users\dev\Documents\workspace\pragram1\pragram1\obj\Debug\net8.0\ref\pragram1.dll
